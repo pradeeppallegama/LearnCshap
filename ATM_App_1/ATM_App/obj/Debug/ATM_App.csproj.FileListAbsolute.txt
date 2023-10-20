@@ -1,0 +1,7 @@
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\obj\Debug\ATM_App.csproj.AssemblyReference.cache
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\obj\Debug\ATM_App.csproj.CoreCompileInputs.cache
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\bin\Debug\ATM_App.exe.config
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\bin\Debug\ATM_App.exe
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\bin\Debug\ATM_App.pdb
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\obj\Debug\ATM_App.exe
+C:\Users\pradeeppg\OneDrive - apiit.lk\Documents\Dev\SDAM\pet_projects\Week1\ATM_App\ATM_App\obj\Debug\ATM_App.pdb
